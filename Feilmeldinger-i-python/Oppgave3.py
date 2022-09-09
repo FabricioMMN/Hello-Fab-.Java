@@ -1,0 +1,3 @@
+navn = "Erik"
+
+print("Erik")
